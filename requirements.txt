@@ -1,0 +1,6 @@
+streamlit
+datetime
+fbprophet
+yfinance
+pandas
+matplotlib
